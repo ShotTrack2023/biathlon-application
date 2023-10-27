@@ -30,6 +30,8 @@ Tyto údaje budou zobrazeny celkově i pro jednotlivé druhy aktivit.
 ### Nastavení 
 Bude možné měnit přihlašovací údaje uživatele
 
+---
+
 ## Možná rozšíření
 
 ### Závod
